@@ -1,0 +1,14 @@
+E:\Meus Documentos\Programas Projetos\Projeto C# MVC\Calculadora_CSharp\new-talent\bin\Debug\netcoreapp3.1\new-talent.exe
+E:\Meus Documentos\Programas Projetos\Projeto C# MVC\Calculadora_CSharp\new-talent\bin\Debug\netcoreapp3.1\new-talent.deps.json
+E:\Meus Documentos\Programas Projetos\Projeto C# MVC\Calculadora_CSharp\new-talent\bin\Debug\netcoreapp3.1\new-talent.runtimeconfig.json
+E:\Meus Documentos\Programas Projetos\Projeto C# MVC\Calculadora_CSharp\new-talent\bin\Debug\netcoreapp3.1\new-talent.runtimeconfig.dev.json
+E:\Meus Documentos\Programas Projetos\Projeto C# MVC\Calculadora_CSharp\new-talent\bin\Debug\netcoreapp3.1\new-talent.dll
+E:\Meus Documentos\Programas Projetos\Projeto C# MVC\Calculadora_CSharp\new-talent\bin\Debug\netcoreapp3.1\new-talent.pdb
+E:\Meus Documentos\Programas Projetos\Projeto C# MVC\Calculadora_CSharp\new-talent\obj\Debug\netcoreapp3.1\new-talent.csproj.AssemblyReference.cache
+E:\Meus Documentos\Programas Projetos\Projeto C# MVC\Calculadora_CSharp\new-talent\obj\Debug\netcoreapp3.1\new-talent.GeneratedMSBuildEditorConfig.editorconfig
+E:\Meus Documentos\Programas Projetos\Projeto C# MVC\Calculadora_CSharp\new-talent\obj\Debug\netcoreapp3.1\new-talent.AssemblyInfoInputs.cache
+E:\Meus Documentos\Programas Projetos\Projeto C# MVC\Calculadora_CSharp\new-talent\obj\Debug\netcoreapp3.1\new-talent.AssemblyInfo.cs
+E:\Meus Documentos\Programas Projetos\Projeto C# MVC\Calculadora_CSharp\new-talent\obj\Debug\netcoreapp3.1\new-talent.csproj.CoreCompileInputs.cache
+E:\Meus Documentos\Programas Projetos\Projeto C# MVC\Calculadora_CSharp\new-talent\obj\Debug\netcoreapp3.1\new-talent.dll
+E:\Meus Documentos\Programas Projetos\Projeto C# MVC\Calculadora_CSharp\new-talent\obj\Debug\netcoreapp3.1\new-talent.pdb
+E:\Meus Documentos\Programas Projetos\Projeto C# MVC\Calculadora_CSharp\new-talent\obj\Debug\netcoreapp3.1\new-talent.genruntimeconfig.cache
