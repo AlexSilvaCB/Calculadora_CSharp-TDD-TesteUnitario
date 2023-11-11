@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Meus Documentos\\Programas Projetos\\Projeto C# MVC\\Calculadora_CSharp\\new-talent\\new-talent.csproj",
+      "projectUniqueName": "E:\\Meus Documentos\\Programas Projetos\\Projeto C# MVC\\Calculadora_CSharp-TDD-TesteUnitario\\new-talent\\new-talent.csproj",
       "projectName": "new-talent",
-      "projectPath": "E:\\Meus Documentos\\Programas Projetos\\Projeto C# MVC\\Calculadora_CSharp\\new-talent\\new-talent.csproj",
+      "projectPath": "E:\\Meus Documentos\\Programas Projetos\\Projeto C# MVC\\Calculadora_CSharp-TDD-TesteUnitario\\new-talent\\new-talent.csproj",
       "packagesPath": "C:\\Users\\Alex\\.nuget\\packages\\",
-      "outputPath": "E:\\Meus Documentos\\Programas Projetos\\Projeto C# MVC\\Calculadora_CSharp\\new-talent\\obj\\",
+      "outputPath": "E:\\Meus Documentos\\Programas Projetos\\Projeto C# MVC\\Calculadora_CSharp-TDD-TesteUnitario\\new-talent\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Alex\\AppData\\Roaming\\NuGet\\NuGet.Config"

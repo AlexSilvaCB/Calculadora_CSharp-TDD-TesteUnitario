@@ -17,7 +17,7 @@ public class UnitTest1
     }
 
     [Theory]
-    [InlineData(1, 2, 1)]
+    [InlineData(2, 1, 1)]
     [InlineData(10, 5, 5)]
     public void TesteSubtracao(int val01, int val02, int resultado)
     {
@@ -63,9 +63,8 @@ public class UnitTest1
 
         var lista = _calc.Historico();
 
-        Assert.Empty(lista);
-        Assert.Equal(4, lista.Count);
-        
+        Assert.NotEmpty(lista);
+        Assert.Equal(3, lista.Count);
     }
 
 }

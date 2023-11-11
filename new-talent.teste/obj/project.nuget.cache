@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6b4DTflBFIPI8RLk6SoLvD8OAbOUFx6GxBr0uoyWOkVPTI2Dnlci4K5PoZk8X4BiVAiFT18t+tMB8NaHVY99vA==",
+  "dgSpecHash": "eF/h28e2i0IZUVJ3+qw3BueZCDc1EP25I9Bi9p98YLhgSUpsOEls7STe4/05LDzpDnC6c/4k9n9L57GxP47Fgw==",
   "success": true,
-  "projectFilePath": "E:\\Meus Documentos\\Programas Projetos\\Projeto C# MVC\\Calculadora_CSharp\\new-talent.teste\\new-talent.teste.csproj",
+  "projectFilePath": "E:\\Meus Documentos\\Programas Projetos\\Projeto C# MVC\\Calculadora_CSharp-TDD-TesteUnitario\\new-talent.teste\\new-talent.teste.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alex\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\Alex\\.nuget\\packages\\microsoft.codecoverage\\17.1.0\\microsoft.codecoverage.17.1.0.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XQEkq7bVC+jDauh0InE9GTWuGGis09FO0Etq5JUKFjkoJJG+Z3xO1Z2qectFq1CYCobKTrqWiZIxSB8lrACRIA==",
+  "dgSpecHash": "sUfi638nklS588VAF0KR3sNQPUrPyi/24lmL2HqbZ0VheCkgK/r9FFD3rDj/tP/XmJZeTsn8xx798alXNCLWIA==",
   "success": true,
-  "projectFilePath": "E:\\Meus Documentos\\Programas Projetos\\Projeto C# MVC\\Calculadora_CSharp\\new-talent\\new-talent.csproj",
+  "projectFilePath": "E:\\Meus Documentos\\Programas Projetos\\Projeto C# MVC\\Calculadora_CSharp-TDD-TesteUnitario\\new-talent\\new-talent.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
